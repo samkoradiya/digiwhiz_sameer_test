@@ -32,7 +32,7 @@ const Banner = () => {
 a new home that takes full advantage  of the unique geography and 
 views of land that you love</p>
                 <div className='btn-row'>
-                    <a href="#" className='primary-btn'>Explore now</a>
+                    <a href="#exploreNow" className='primary-btn'>Explore now</a>
                 </div>
             </div>
         </div>
